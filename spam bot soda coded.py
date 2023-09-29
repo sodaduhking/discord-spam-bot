@@ -1,6 +1,17 @@
 from discord import SyncWebhook
 
-webhook = SyncWebhook.from_url("your webhook here")
+
+print("========================================================")                                                    
+print("  ___  _ __   __ _   _ __    _ __   (_)  _ _    __ _    |") 
+print(" (_-< | '_ \ / _` | | '  \  | '  \  | | | ' \  / _` |   |")
+print(" /__/ | .__/ \__,_| |_|_|_| |_|_|_| |_| |_||_| \__, |   |")
+print("      |_|                                      |___/    |")
+print("=========================================================")
+print("its working also remember you can change what the text says because its open source")
+
+
+webhook = SyncWebhook.from_url("not yet")
+
 webhook.send("@everyone im a spam bot 1st kid coded and its a good spam bot too")
 webhook.send("@everyone @everyone @everyone @everyone @everyone @everyone")
 webhook.send("@everyone @everyone @everyone @everyone @everyone @everyone")
