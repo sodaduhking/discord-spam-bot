@@ -4,6 +4,10 @@ to make it spam in a server you have to make a webhook and copy the webhook and 
 
 
 IF YOU WANT TO RUN IT IN KALI LINUX
-https://github.com/sodaduhking/discord-spam-bot
+
+
+
+
+git clone https://github.com/sodaduhking/discord-spam-bot
 cd discord-spam-bot
 python3 SpamBot.py
