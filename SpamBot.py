@@ -10,7 +10,7 @@ print("=========================================================")
 print("its working also remember you can change what the text says because its open source")
 
 
-webhook = SyncWebhook.from_url("not yet")
+webhook = SyncWebhook.from_url("YOUR WEBHOOK HERE")
 
 webhook.send("@everyone im a spam bot 1st kid coded and its a good spam bot too")
 webhook.send("@everyone @everyone @everyone @everyone @everyone @everyone")
