@@ -9,5 +9,13 @@ IF YOU WANT TO RUN IT IN KALI LINUX
 
 
 git clone https://github.com/sodaduhking/discord-spam-bot
+
+
+
+
 cd discord-spam-bot
+
+
+
+
 python3 SpamBot.py
